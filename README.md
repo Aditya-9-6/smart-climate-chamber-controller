@@ -6,11 +6,10 @@ The system utilizes dual DHT22 high-precision sensors, servo-actuated airflow da
 
 ---
 
-## 👨‍💻 Maintainers & Engineering Team
+## 👨‍💻 Author & Maintainer
 
-- **Lead Maintainer:** **Sarthak Jorvekar** ([@jorvekarsarthak7-code](https://github.com/jorvekarsarthak7-code))  
+- **Developer & Maintainer:** **Sarthak Jorvekar** ([@jorvekarsarthak7-code](https://github.com/jorvekarsarthak7-code))  
   *Second Year Mechanical Engineer, Amrutvahini College of Engineering (AVCOE)*
-- **System Architecture & Code Review:** **Aditya Dahale** ([@Aditya-9-6](https://github.com/Aditya-9-6))
 
 ---
 

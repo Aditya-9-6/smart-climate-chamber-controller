@@ -13,8 +13,7 @@
  *   - Foot Pedal Safety Traffic Light Sequence (Red -> Yellow -> Green)
  *   - System Power Pushbutton Control (ON / OFF)
  * 
- * Maintainer: Sarthak Jorvekar (GitHub: @jorvekarsarthak7-code)
- * Architecture & Review: Aditya Dahale (GitHub: @Aditya-9-6)
+ * Author & Maintainer: Sarthak Jorvekar (GitHub: @jorvekarsarthak7-code)
  * =====================================================================
  */
 
