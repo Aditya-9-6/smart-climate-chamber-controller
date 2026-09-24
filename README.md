@@ -104,7 +104,7 @@ Ensure the following libraries are installed via the Arduino IDE Library Manager
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Aditya-9-6/smart-climate-chamber-controller.git
+   git clone https://github.com/jorvekarsarthak7-code/smart-climate-chamber-controller.git
    ```
 2. Open `smart_climate_chamber_controller.ino` in Arduino IDE or VS Code (with PlatformIO).
 3. Select your development board (e.g., `ESP32 Dev Module`).
