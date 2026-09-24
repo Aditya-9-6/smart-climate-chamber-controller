@@ -1,0 +1,17 @@
+# Compiled Arduino / PlatformIO binaries
+.pio/
+.vscode/
+*.hex
+*.bin
+*.elf
+*.o
+*.a
+
+# Build directories
+build/
+bin/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
